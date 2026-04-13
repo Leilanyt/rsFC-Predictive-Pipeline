@@ -1,9 +1,8 @@
-# Neuroimaging data (do NOT track)
 Data/
 data/
-
-# Jupyter checkpoints
+Code/
+Additional_info/
+task/
+nilearn_cache/
 .ipynb_checkpoints/
-
-# macOS files
 .DS_Store
